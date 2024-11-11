@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\bin\Debug\Exer_05_ Fixacao.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\bin\Debug\Exer_05_ Fixacao.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\bin\Debug\Exer_05_ Fixacao.pdb
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\obj\Debug\Exer_05_ Fixacao.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\obj\Debug\Exer_05_ Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\obj\Debug\Exer_05_ Fixacao.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_05_ Fixacao\Exer_05_ Fixacao\obj\Debug\Exer_05_ Fixacao.pdb

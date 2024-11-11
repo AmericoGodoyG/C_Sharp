@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_Fixacao_06_MembEstacos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C6408-5269-474B-A4A6-DE5092381194}|Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos.csproj|c:\\users\\ameri\\desktop\\csharp_poo\\04-classes_atributos_metodos_membrosestaticos\\exer_fixacao_06_membestacos\\exer_fixacao_06_membestacos\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C6408-5269-474B-A4A6-DE5092381194}|Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos.csproj|solutionrelative:exer_fixacao_06_membestacos\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C6408-5269-474B-A4A6-DE5092381194}|Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos.csproj|c:\\users\\ameri\\desktop\\csharp_poo\\04-classes_atributos_metodos_membrosestaticos\\exer_fixacao_06_membestacos\\exer_fixacao_06_membestacos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C6408-5269-474B-A4A6-DE5092381194}|Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos.csproj|solutionrelative:exer_fixacao_06_membestacos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "Exer_Fixacao_06_MembEstacos\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "Exer_Fixacao_06_MembEstacos\\ConversorDeMoeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:11:00.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos\\Program.cs",
+              "RelativeDocumentMoniker": "Exer_Fixacao_06_MembEstacos\\Program.cs",
+              "ToolTip": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_Fixacao_06_MembEstacos\\Exer_Fixacao_06_MembEstacos\\Program.cs",
+              "RelativeToolTip": "Exer_Fixacao_06_MembEstacos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:08:34.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

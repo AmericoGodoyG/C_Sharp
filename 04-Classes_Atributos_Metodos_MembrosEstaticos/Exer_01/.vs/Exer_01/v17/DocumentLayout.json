@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAF8ED1-B6CF-4DE1-BF5C-5D3B5027464C}|Exer_01\\Exer_01.csproj|c:\\users\\ameri\\desktop\\csharp_poo\\04-classes_atributos_metodos_membrosestaticos\\exer_01\\exer_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAF8ED1-B6CF-4DE1-BF5C-5D3B5027464C}|Exer_01\\Exer_01.csproj|solutionrelative:exer_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAF8ED1-B6CF-4DE1-BF5C-5D3B5027464C}|Exer_01\\Exer_01.csproj|c:\\users\\ameri\\desktop\\csharp_poo\\04-classes_atributos_metodos_membrosestaticos\\exer_01\\exer_01\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAF8ED1-B6CF-4DE1-BF5C-5D3B5027464C}|Exer_01\\Exer_01.csproj|solutionrelative:exer_01\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_01\\Exer_01\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Exer_01\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_01\\Exer_01\\Pessoa.cs",
+              "RelativeToolTip": "Exer_01\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:26:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_01\\Exer_01\\Program.cs",
+              "RelativeDocumentMoniker": "Exer_01\\Program.cs",
+              "ToolTip": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\04-Classes_Atributos_Metodos_MembrosEstaticos\\Exer_01\\Exer_01\\Program.cs",
+              "RelativeToolTip": "Exer_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:25:55.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

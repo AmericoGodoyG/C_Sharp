@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\06-Comportamento_de_Memoria_Array_List\\Exer03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8343F8-2FEE-46D5-A22E-4912C8B2EA42}|Exer03\\Exer03.csproj|c:\\users\\ameri\\desktop\\csharp_poo\\06-comportamento_de_memoria_array_list\\exer03\\exer03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8343F8-2FEE-46D5-A22E-4912C8B2EA42}|Exer03\\Exer03.csproj|solutionrelative:exer03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\06-Comportamento_de_Memoria_Array_List\\Exer03\\Exer03\\Program.cs",
+              "RelativeDocumentMoniker": "Exer03\\Program.cs",
+              "ToolTip": "C:\\Users\\ameri\\Desktop\\CSharp_POO\\06-Comportamento_de_Memoria_Array_List\\Exer03\\Exer03\\Program.cs",
+              "RelativeToolTip": "Exer03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:17:15.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

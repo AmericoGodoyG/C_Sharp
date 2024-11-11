@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\bin\Debug\Exer_Fixacao.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\bin\Debug\Exer_Fixacao.exe
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\bin\Debug\Exer_Fixacao.pdb
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\obj\Debug\Exer_Fixacao.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\obj\Debug\Exer_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\obj\Debug\Exer_Fixacao.exe
+C:\Users\ameri\Desktop\CSharp_POO\05-Contrutores_This_Sobrecarga_Ecapsulamento\Exer_Fixacao\Exer_Fixacao\obj\Debug\Exer_Fixacao.pdb

@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\bin\Debug\Exer_02.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\bin\Debug\Exer_02.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\bin\Debug\Exer_02.pdb
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\obj\Debug\Exer_02.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\obj\Debug\Exer_02.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\obj\Debug\Exer_02.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exer_02\Exer_02\obj\Debug\Exer_02.pdb

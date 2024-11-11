@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\bin\Debug\ExercicioFixacao.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\bin\Debug\ExercicioFixacao.exe
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\bin\Debug\ExercicioFixacao.pdb
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.exe
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.pdb

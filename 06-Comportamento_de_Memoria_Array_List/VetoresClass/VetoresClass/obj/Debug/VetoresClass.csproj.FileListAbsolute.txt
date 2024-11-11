@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\bin\Debug\VetoresClass.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\bin\Debug\VetoresClass.exe
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\bin\Debug\VetoresClass.pdb
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\obj\Debug\VetoresClass.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\obj\Debug\VetoresClass.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\obj\Debug\VetoresClass.exe
+C:\Users\ameri\Desktop\CSharp_POO\06-Comportamento_de_Memoria_Array_List\VetoresClass\VetoresClass\obj\Debug\VetoresClass.pdb

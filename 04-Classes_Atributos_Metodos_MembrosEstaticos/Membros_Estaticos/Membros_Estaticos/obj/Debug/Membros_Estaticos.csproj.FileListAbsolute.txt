@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\Membros_Estaticos.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\Membros_Estaticos.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\bin\Debug\Membros_Estaticos.pdb
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\Membros_Estaticos.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\Membros_Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\Membros_Estaticos.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Membros_Estaticos\Membros_Estaticos\obj\Debug\Membros_Estaticos.pdb

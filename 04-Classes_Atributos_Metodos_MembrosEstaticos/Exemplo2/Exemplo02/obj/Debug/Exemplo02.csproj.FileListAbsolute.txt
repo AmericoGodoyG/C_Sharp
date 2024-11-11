@@ -1,0 +1,7 @@
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\bin\Debug\Exemplo02.exe.config
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\bin\Debug\Exemplo02.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\bin\Debug\Exemplo02.pdb
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\obj\Debug\Exemplo02.csproj.AssemblyReference.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\obj\Debug\Exemplo02.csproj.CoreCompileInputs.cache
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\obj\Debug\Exemplo02.exe
+C:\Users\ameri\Desktop\CSharp_POO\04-Classes_Atributos_Metodos_MembrosEstaticos\Exemplo02\Exemplo02\obj\Debug\Exemplo02.pdb
