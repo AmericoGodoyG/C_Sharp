@@ -1,0 +1,14 @@
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\bin\Debug\net8.0\EstruturasRepetitivas.exe
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\bin\Debug\net8.0\EstruturasRepetitivas.deps.json
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\bin\Debug\net8.0\EstruturasRepetitivas.runtimeconfig.json
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\bin\Debug\net8.0\EstruturasRepetitivas.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\bin\Debug\net8.0\EstruturasRepetitivas.pdb
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.AssemblyInfoInputs.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.AssemblyInfo.cs
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.csproj.CoreCompileInputs.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\refint\EstruturasRepetitivas.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.pdb
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\EstruturasRepetitivas.genruntimeconfig.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturasRepetitivas\obj\Debug\net8.0\ref\EstruturasRepetitivas.dll

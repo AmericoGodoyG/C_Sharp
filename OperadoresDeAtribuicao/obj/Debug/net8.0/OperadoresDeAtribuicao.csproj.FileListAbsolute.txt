@@ -1,0 +1,14 @@
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.exe
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.deps.json
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.runtimeconfig.json
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.dll
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.pdb
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.dll
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\refint\OperadoresDeAtribuicao.dll
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.pdb
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\DEV\CourseCsharp\OperadoresDeAtribuicao\obj\Debug\net8.0\ref\OperadoresDeAtribuicao.dll

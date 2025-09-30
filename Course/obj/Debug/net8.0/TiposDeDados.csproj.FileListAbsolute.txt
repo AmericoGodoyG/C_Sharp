@@ -1,0 +1,14 @@
+C:\DEV\Course\Course\bin\Debug\net8.0\TiposDeDados.exe
+C:\DEV\Course\Course\bin\Debug\net8.0\TiposDeDados.deps.json
+C:\DEV\Course\Course\bin\Debug\net8.0\TiposDeDados.runtimeconfig.json
+C:\DEV\Course\Course\bin\Debug\net8.0\TiposDeDados.dll
+C:\DEV\Course\Course\bin\Debug\net8.0\TiposDeDados.pdb
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.dll
+C:\DEV\Course\Course\obj\Debug\net8.0\refint\TiposDeDados.dll
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.pdb
+C:\DEV\Course\Course\obj\Debug\net8.0\TiposDeDados.genruntimeconfig.cache
+C:\DEV\Course\Course\obj\Debug\net8.0\ref\TiposDeDados.dll

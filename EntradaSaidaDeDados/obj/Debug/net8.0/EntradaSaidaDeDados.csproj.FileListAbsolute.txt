@@ -1,0 +1,14 @@
+C:\DEV\Course\EntradaSaidaDeDados\bin\Debug\net8.0\EntradaSaidaDeDados.exe
+C:\DEV\Course\EntradaSaidaDeDados\bin\Debug\net8.0\EntradaSaidaDeDados.deps.json
+C:\DEV\Course\EntradaSaidaDeDados\bin\Debug\net8.0\EntradaSaidaDeDados.runtimeconfig.json
+C:\DEV\Course\EntradaSaidaDeDados\bin\Debug\net8.0\EntradaSaidaDeDados.dll
+C:\DEV\Course\EntradaSaidaDeDados\bin\Debug\net8.0\EntradaSaidaDeDados.pdb
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.AssemblyInfoInputs.cache
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.AssemblyInfo.cs
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.dll
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\refint\EntradaSaidaDeDados.dll
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.pdb
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\EntradaSaidaDeDados.genruntimeconfig.cache
+C:\DEV\Course\EntradaSaidaDeDados\obj\Debug\net8.0\ref\EntradaSaidaDeDados.dll

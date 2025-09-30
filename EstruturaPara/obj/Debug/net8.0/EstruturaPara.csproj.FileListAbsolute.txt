@@ -1,0 +1,14 @@
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\bin\Debug\net8.0\EstruturaPara.exe
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\bin\Debug\net8.0\EstruturaPara.deps.json
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\bin\Debug\net8.0\EstruturaPara.runtimeconfig.json
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\bin\Debug\net8.0\EstruturaPara.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\bin\Debug\net8.0\EstruturaPara.pdb
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.AssemblyInfoInputs.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.AssemblyInfo.cs
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.csproj.CoreCompileInputs.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\refint\EstruturaPara.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.pdb
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\EstruturaPara.genruntimeconfig.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EstruturaPara\obj\Debug\net8.0\ref\EstruturaPara.dll

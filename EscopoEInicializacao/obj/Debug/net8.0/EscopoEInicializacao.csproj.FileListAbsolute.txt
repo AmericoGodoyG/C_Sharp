@@ -1,0 +1,14 @@
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\bin\Debug\net8.0\EscopoEInicializacao.exe
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\bin\Debug\net8.0\EscopoEInicializacao.deps.json
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\bin\Debug\net8.0\EscopoEInicializacao.runtimeconfig.json
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\bin\Debug\net8.0\EscopoEInicializacao.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\bin\Debug\net8.0\EscopoEInicializacao.pdb
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.AssemblyInfoInputs.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.AssemblyInfo.cs
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\refint\EscopoEInicializacao.dll
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.pdb
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\EscopoEInicializacao.genruntimeconfig.cache
+C:\Users\ameri\OneDrive\Área de Trabalho\CourseCsharp\EscopoEInicializacao\obj\Debug\net8.0\ref\EscopoEInicializacao.dll
